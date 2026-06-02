@@ -132,7 +132,7 @@ All paths and settings are in `src/config.py`. Key entries:
 
 ## Reference
 
-Aghapour, R. et al. *Global sensitivity analysis to enhance the transparency and rigour of energy system optimisation modelling.* IISE Transactions (see `IISE Published paper/` folder).
+Aghapour, R. et al. *Global sensitivity analysis to enhance the transparency and rigour of energy system optimisation modelling.* IISE Conference (see `IISE Published paper/` folder).
 
 Saltelli, A. et al. (2008). *Global Sensitivity Analysis: The Primer.* Wiley.
 
